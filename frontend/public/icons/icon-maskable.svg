@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#6d28d9"/>
+  <!-- Chat bubble - centered for maskable safe zone -->
+  <path d="M 140 190 C 140 155 167 128 202 128 L 310 128 C 345 128 372 155 372 190 L 372 275 C 372 310 345 337 310 337 L 265 337 L 215 385 L 215 337 L 202 337 C 167 337 140 310 140 275 Z" fill="rgba(255,255,255,0.95)"/>
+  <!-- Mask/incognito eyes -->
+  <ellipse cx="210" cy="220" rx="28" ry="24" fill="#1e1b4b"/>
+  <ellipse cx="302" cy="220" rx="28" ry="24" fill="#1e1b4b"/>
+  <!-- Eye shine -->
+  <circle cx="218" cy="214" r="7" fill="rgba(255,255,255,0.6)"/>
+  <circle cx="310" cy="214" r="7" fill="rgba(255,255,255,0.6)"/>
+  <!-- Question mark -->
+  <path d="M 256 265 L 256 278" stroke="#7c3aed" stroke-width="10" stroke-linecap="round"/>
+  <path d="M 256 290 L 256 292" stroke="#7c3aed" stroke-width="10" stroke-linecap="round"/>
+</svg>
