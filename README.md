@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="frontend/public/icons/icon-192.png" alt="AnonymSpace" width="96" />
+</p>
+
 # AnonymSpace
 
 Anonymous group chat spaces where messages disappear.
